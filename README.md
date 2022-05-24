@@ -1,4 +1,8 @@
 # Statistical-Analysis-of-WhatsApp-chat
+Topic analyis: https://gitlab.com/swapMane/topic-modeling-on-whatsapp-chat-using-lda
+
+Sentiment analysis: https://github.com/SwapnilSMane/Sentiment-Analysis-on-whatsapp-chat-and-movie-reviews
+
 
 <b>This is a statistical analysis of the WhatsApp group chat. This will give the answer to all these questions.
 <br>In which period of time and date more chatting has done? 
